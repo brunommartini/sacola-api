@@ -86,6 +86,8 @@ No Terminal/Console:
 <a href="https://www.linkedin.com/in/brunomm86/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/brunommartini" width="100px;" alt=""/>
  <br />
+ <sub><b>Bruno M. Martini</b></sub></a>
+
 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomm86/)](https://www.linkedin.com/in/brunomm86/)
